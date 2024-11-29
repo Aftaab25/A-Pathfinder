@@ -1,4 +1,4 @@
-# A* Pathfinder
+# IntelliPath: A* Pathfinder
 
 This repository contains an implementation of the A* (A-Star) pathfinding algorithm in Python. The A* algorithm is a popular search algorithm used in various applications such as AI, robotics, and game development to find the shortest path between two points.
 
